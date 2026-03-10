@@ -29,13 +29,13 @@ I used Google Cloud Platform to restart my PM2. This got my production app runni
 ## Stack
 * node.js
 * express.js
-MongoDB
-RESTful API
-nodemon
-dotenv
-Render
-normalize.css
-Bootstrap 5
-jQuery / jQuery UI (optional)
-.yaml (GitHub workflow)
-GCP
+* MongoDB
+* RESTful API
+* nodemon
+* dotenv
+* Render
+* normalize.css
+* Bootstrap 5
+* jQuery / jQuery UI (optional)
+* .yaml (GitHub workflow)
+* GCP
