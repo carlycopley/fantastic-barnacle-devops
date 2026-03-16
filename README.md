@@ -1,3 +1,4 @@
+# CIS 486 Mini App
 # refactored-enigma-devops
 Spring 2026 CIS 486. 
 
@@ -11,7 +12,10 @@ Here's my CRUD App, **Lunary**! Focused as a digital journal, where you can writ
 # turbo-system-devops
 Spring 2026 CIS 486. 
 
----
+#Class demo Mini App
+-Brandon Durham on [github](https://github.com/bdurham130))
+-[Mini App Demo](https://dev-cis486.onrender.com/)
+-[Drpepper Repo](https://github.com/bdurham130/drpepper-devops)
 
 ## submissions.
 - John Weatherford on [GitHub](https://github.com/JohnWeatherford/)
