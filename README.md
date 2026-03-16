@@ -31,6 +31,11 @@ Spring 2026 CIS 486.
 - <a href="https://dev-coco-devops.onrender.com/">Render</a>
 - This App allows you to track your lego sets and create a wishlit for future sets
 
+- Jackson's MINI-APP :octocat: [Repository](https://github.com/jaxn-harvey/test-app-devops-1-2026)
+- [Render](https://test-app-devops-1-2026.onrender.com/)
+- Currently occupying [forageguide.barrycumbie.com](https://forageguide.barrycumbie.com/) domain
+- This app showcases a (slightly broken) resume project from Web Development several semesters ago
+
 # Budget Tracker APP
 - Zachary Nasser's MINI-APP: [Repository](https://github.com/znasser46/devops)
 - [Production App](https://bud.barrycumbie.com/)
